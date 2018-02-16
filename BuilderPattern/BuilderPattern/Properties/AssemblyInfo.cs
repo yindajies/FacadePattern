@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("FacadePattern")]
+[assembly: AssemblyTitle("BuilderPattern")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("FacadePattern")]
+[assembly: AssemblyProduct("BuilderPattern")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("e49ae8dd-e4f5-4f7d-bc59-b19bc4bfe169")]
+[assembly: Guid("4868d8a2-7df9-4eb0-880e-48e71d99cd72")]
 
 // 程序集的版本信息由下列四个值组成: 
 //
